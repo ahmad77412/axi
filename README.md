@@ -18,6 +18,8 @@ pkg install python2
 
 pkg install git
 
+pkg install figlet
+
 pip2 install requests
 
 pip2 install mechanize
