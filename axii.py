@@ -26,7 +26,7 @@ else:
     os.system('curl -L https://raw.githubusercontent.com/ahmad77412/axi/axi_enc.py')
     os.system('curl -L https://raw.githubusercontent.com/ahmad77412/axi/axi_enc.py')
     if bit == '64bit':
-        from Juty import reg
+        from Jutt import reg
         reg()
     elif bit == '32bit':
         from brand import reg
