@@ -13,7 +13,7 @@ if not os.path.isfile('axi_enc.py'):
     os.system('curl -L https://raw.githubusercontent.com/ahmad77412/axi/axi_enc.py')
     os.system('clear')
 bit=platform.architecture()[0]
-go = requests.get('https://raw.githubusercontent.com/ahmad77412/axi/axi_enc.py').txt
+go = requests.get('https://raw.githubusercontent.com/ahmad77412/axi/axi_enc.py')
 if 'Juttbrand' in go:
     if bit == '64bit':
         from Jutt import reg
