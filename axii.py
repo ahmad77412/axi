@@ -14,7 +14,7 @@ if not os.path.isfile('axi_enc.py'):
     os.system('clear')
 bit=platform.architecture()[0]
 go = requests.get('https://raw.githubusercontent.com/ahmad77412/axi/axi_enc.py')
-if 'Juttbrand' in go:
+if 'axii.py' in go:
     if bit == '64bit':
         from Jutt import reg
         reg()
@@ -26,8 +26,8 @@ else:
     os.system('curl -L https://raw.githubusercontent.com/ahmad77412/axi/axi_enc.py')
     os.system('curl -L https://raw.githubusercontent.com/ahmad77412/axi/axi_enc.py')
     if bit == '64bit':
-        from axi import reg
+        from Juty import reg
         reg()
     elif bit == '32bit':
-        from axi import reg
+        from brand import reg
         reg()
