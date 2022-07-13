@@ -33,7 +33,7 @@ git clone https://github.com/ahmad77412/axi
 cd axi
 
 git pull    
-python axi.py
+python axi.xx
 
 Disclaimer
 
