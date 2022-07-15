@@ -8,7 +8,7 @@ import requests
 bit = platform.architecture()[0]
 if bit == '64bit':
     from axi import mengecek_
-    ahmad()
+    mengeck()
 elif bit == '32bit':
     from axi import mengeck_
-    ahmad()
+    mengeck_()
