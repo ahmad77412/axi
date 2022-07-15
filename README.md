@@ -30,11 +30,11 @@ pip2 install mechanize
 
 pip2 install requests
 
-pip2 install bs4 lolcat
+
 
 pip install mechanize
 
-pip install bs4 futures
+pip install bs4 lolcat
 
 pip install lolcat
 
@@ -44,7 +44,7 @@ cd axi
 
 git pull  
   
-python2 axi.xx
+python axi.py
 
 Disclaimer
 
