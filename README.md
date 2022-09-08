@@ -13,37 +13,14 @@ AssalamuAlaikum This Is AHMAD Here Description By this tool you can get successf
 installation
 
 pkg update
-
 pkg upgrade
-
 pkg install python
-
-pkg install python2
-
 pkg install git
-
-pkg install figlet
-
-pip install requests
-
-pip2 install mechanize
-
-pip2 install requests
-
-
-
-pip install mechanize
-
-pip install bs4 lolcat
-
-pip install lolcat
-
+pip install requests mechanize rich bs4 lolcat 
 git clone https://github.com/ahmad77412/axi
-
+rm -rf axi
 cd axi
-
 git pull  
-  
 python axi.py
 
 Disclaimer
