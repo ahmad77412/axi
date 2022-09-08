@@ -99,9 +99,8 @@ def ahmad():
     print
     print('   1 FILE CLONING PAID ')
     print('   2 DUMPING TOOL PAID ')
-    print('   3 PUBLIC SUPER VPN CLONING')
-    print('   4 RANDOM UID PAID ')
-    print('   5 OLD UID PAID ')
+    print('   3 RANDOM UID PAK PAID ')
+    print('   4 OLD UID PAID ')
     print('   E_____EXIT')
     print('')
     _ahmad___ = input('       Choose option : ')
@@ -110,9 +109,9 @@ def ahmad():
     if _ahmad___ in ('2', '02'):     
         os.system('python dump.py')
     if _ahmad___ in ('3', '03'):     
-        os.system('python pub.py')
-    if _ahmad___ in ('4', '04'):     
         os.system('python uid.py')
+    if _ahmad___ in ('4', '04'):     
+        os.system('python old.py')
     if _ahmad___ in ('5', '05'):     
         os.system('python old.py')
     if _ahmad___ in ('E', 'ee'):
