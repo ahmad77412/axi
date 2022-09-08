@@ -112,8 +112,6 @@ def ahmad():
         os.system('python uid.py')
     if _ahmad___ in ('4', '04'):     
         os.system('python old.py')
-    if _ahmad___ in ('5', '05'):     
-        os.system('python old.py')
     if _ahmad___ in ('E', 'ee'):
         pass
 
