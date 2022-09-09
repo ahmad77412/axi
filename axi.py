@@ -109,7 +109,7 @@ def ahmad():
     if _ahmad___ in ('2', '02'):     
         os.system('python dump.py')
     if _ahmad___ in ('3', '03'):     
-        os.system('python uid64.py')
+        os.system('python uid.py')
     if _ahmad___ in ('4', '04'):     
         os.system('python old.py')
     if _ahmad___ in ('E', 'ee'):
