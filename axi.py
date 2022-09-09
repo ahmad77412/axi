@@ -83,7 +83,7 @@ logo ="""\033[1;97m
  Owner    : MALIK AHMAD AWAN
  TEAM     : RIAZ X AHMAD
  TOOL     : MAIN MENU
- Version  : 5.4
+ Version  : 5.5
 --------------------------------------------------
 Turn on & off flight (airplane) mode before use
 --------------------------------------------------
@@ -97,9 +97,9 @@ def ahmad():
     todz = ''
     IP = ipm['origin']
     print
-    print('   1 FILE CLONING PAID ')
+    print('   1 FILE CLONING PAID UPDATE')
     print('   2 DUMPING TOOL PAID ')
-    print('   3 RANDOM UID PAK PAID ')
+    print('   3 RANDOM UID PAK PAID UPDATE')
     print('   4 OLD UID PAID ')
     print('   E_____EXIT')
     print('')
@@ -109,7 +109,7 @@ def ahmad():
     if _ahmad___ in ('2', '02'):     
         os.system('python dump.py')
     if _ahmad___ in ('3', '03'):     
-        os.system('python uid.py')
+        os.system('python uid64.py')
     if _ahmad___ in ('4', '04'):     
         os.system('python old.py')
     if _ahmad___ in ('E', 'ee'):
