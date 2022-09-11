@@ -83,7 +83,7 @@ logo ="""\033[1;97m
  Owner    : MALIK AHMAD AWAN
  TEAM     : RIAZ X AHMAD
  TOOL     : MAIN MENU
- Version  : 5.5
+ Version  : 5.6
 --------------------------------------------------
 Turn on & off flight (airplane) mode before use
 --------------------------------------------------
