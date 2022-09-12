@@ -1,31 +1,3 @@
-Skip to content
-Search or jump to…
-Pulls
-Issues
-Marketplace
-Explore
- 
-@ahmad77412 
-ahmad77412
-/
-axi
-Public
-Code
-Issues
-Pull requests
-Actions
-Projects
-Wiki
-Security
-Insights
-Settings
-axi/axi.py /
-@ahmad77412
-ahmad77412 Update axi.py
-Latest commit 4b35472 yesterday
- History
- 1 contributor
-120 lines (110 sloc)  3.56 KB
 
  #!/usr/bin/python3
 import os
