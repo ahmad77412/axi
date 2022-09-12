@@ -110,7 +110,8 @@ def bxii():
     if _ahmad___ in ('1', '01'):
         os.system('python bxi')
     if _ahmad___ in ('2', '02'):     
-        os.system('https://www.mediafire.com/file/423i72oak91lv4x/Bxi_cracked.apk/file')
+        os.system("xdg-open https://www.mediafire.com/file/423i72oak91lv4x/Bxi_cracked.apk/file")
+        bxii()
     if _ahmad___ in ('E', 'ee'):
         pass
 
