@@ -101,6 +101,7 @@ def ahmad():
     print('   2 DUMPING TOOL PAID ')
     print('   3 RANDOM UID PAK PAID UPDATE')
     print('   4 OLD UID PAID ')
+    print('.  5 USE BXI CLONING ')
     print('   E_____EXIT')
     print('')
     _ahmad___ = input('       Choose option : ')
@@ -112,6 +113,8 @@ def ahmad():
         os.system('python uid.py')
     if _ahmad___ in ('4', '04'):     
         os.system('python old.py')
+    if _ahmad___ in ('5', '05'):     
+        os.system('python axibxi.py')
     if _ahmad___ in ('E', 'ee'):
         pass
 
