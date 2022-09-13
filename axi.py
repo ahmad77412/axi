@@ -1,3 +1,4 @@
+
  #!/usr/bin/python3
 import os
 try:
@@ -72,24 +73,23 @@ def jalan(z):
         time.sleep(0.01)
 
 logo ="""\033[1;97m
-\033[1;94m           ###    ##     ## #### 
-\033[1;92m          ## ##    ##   ##   ##  
-\033[1;94m         ##   ##    ## ##    ##  
-\033[1;92m        ##     ##    ###     ##  
-\033[1;93m        #########   ## ##    ##  
-\033[1;94m        ##     ##  ##   ##   ##  
-\033[1;92m        ##     ## ##     ## #### 
+\033[1;97m           ###    ##     ## #### 
+\033[1;97m          ## ##    ##   ##   ##  
+\033[1;97m         ##   ##    ## ##    ##  
+\033[1;97m        ##     ##    ###     ##  
+\033[1;97m        #########   ## ##    ##  
+\033[1;97m        ##     ##  ##   ##   ##  
+\033[1;97m        ##     ## ##     ## #### 
 --------------------------------------------------
  Owner    : MALIK AHMAD AWAN
- TEAM     : RIAZ X AHMAD
+ Team     : AR
  TOOL     : MAIN MENU
- Version  : 5.6
+ Version  : 6.0
 --------------------------------------------------
 Turn on & off flight (airplane) mode before use
 --------------------------------------------------
-PAID TOOL UPDATE AFTER 2 DAYS
+PAID COMMAND UPDATE AFTER TWO DAYS 
 --------------------------------------------------"""
-
 def ahmad():
     os.system('clear')
     print(logo)
@@ -99,9 +99,7 @@ def ahmad():
     print
     print('   1 FILE CLONING PAID UPDATE')
     print('   2 DUMPING TOOL PAID ')
-    print('   3 RANDOM UID PAK PAID UPDATE')
-    print('   4 OLD UID PAID ')
-    print('.  5 USE BXI CLONING ')
+    print('   3 RANDOM UID ClONING ')
     print('   E_____EXIT')
     print('')
     _ahmad___ = input('       Choose option : ')
