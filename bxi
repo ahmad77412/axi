@@ -1,7 +1,0 @@
-import os, platform
-
-bit = platform.architecture()[0]
-if bit == '64bit':
-    import bxi.so
-else:
-    exit('\033[1;31msorry not support 32bit')
