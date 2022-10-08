@@ -13,14 +13,23 @@ AssalamuAlaikum This Is AHMAD Here Description By this tool you can get successf
 installation
 
 pkg update
+
 pkg upgrade
+
 pkg install python
+
 pkg install git
+
 pip install requests mechanize rich bs4 lolcat 
-git clone https://github.com/ahmad77412/axi
+
 rm -rf axi
+
+git clone https://github.com/ahmad77412/axi
+
 cd axi
+
 git pull  
+
 python axi.py
 
 Disclaimer
