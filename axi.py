@@ -19,18 +19,6 @@ if b == '64bit':
     
     print("\033[1;32m     Welcome To My Ok Tool");time.sleep(2.0)
     
-    from axi import update
+    from axii import Subscraption
     
-    update() 
-
-elif b == '32bit':
-	
-    print("\n\x1b[1;92mCongratulations Your Device Support This Tool\033[1;37m")
-
-    print("")
-    
-    print("\033[1;32m     Welcome To My Ok Tool");time.sleep(2.0)
-
-    from dump import Subscraption
-    
-    Subscraption() 
+    Subscraption()
