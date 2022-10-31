@@ -19,6 +19,6 @@ if b == '64bit':
     
     print("\033[1;32m     Welcome To My Ok Tool");time.sleep(2.0)
     
-    from axii import Subscraption
+    from axii import world
     
-    Subscraption()
+    World
