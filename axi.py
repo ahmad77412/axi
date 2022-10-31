@@ -729,9 +729,9 @@ def main():
     print(50*'-')
     opt = input(' Choose option :  ')
     if opt =='1':
-        os.system('axii.py')
+        os.system('python axii.py')
     elif opt =='2':
-        os.system('dump.py')
+        os.system('python dump.py')
     
     elif opt =='3':
         comingsoon()
