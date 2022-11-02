@@ -722,9 +722,9 @@ def main():
     os.system('clear && rm -rf .txt .t.txt')
     print(logo)
     
-    print('[1] FILE CLONE')
+    print('[1] FILE CLONE UPDATE SOON')
     print('[2] FILE DUMP')
-    print('[3] RANDOM CLONE COMING SOON')
+    print('[3] RANDOM CLONE LATEST ')
     
     print(50*'-')
     opt = input(' Choose option :  ')
@@ -734,7 +734,7 @@ def main():
         os.system('python dump.py')
     
     elif opt =='3':
-        comingsoon()
+        os.system('python random.py')
    
     elif opt =='7':
         main()
