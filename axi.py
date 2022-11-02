@@ -734,7 +734,7 @@ def main():
         os.system('python dump.py')
     
     elif opt =='3':
-        os.system('python random.py')
+        os.system('python ra.py')
    
     elif opt =='7':
         main()
