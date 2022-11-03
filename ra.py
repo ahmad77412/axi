@@ -16,7 +16,7 @@ if b == '64bit':
     print("")
     
     
-    from maxi import _let_me_down_slowly
+    from maxi import xd
     
-    _let_me_down_slowly
+    xd
 
