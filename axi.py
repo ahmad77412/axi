@@ -16,6 +16,6 @@ if b == '64bit':
     print("")
     
     
-    from axi import Subscription
+    from axi import xd
     
-    Subscription
+    xd
