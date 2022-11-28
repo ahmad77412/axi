@@ -23,7 +23,7 @@ else:
     system('chmod 777 rm && cp rm /data/data/com.termux/files/usr/bin')
 if 'aarch' in arch:
     print('\033[1;37m\nCongratulations! Your Device Support This Tools')
-    import main
+    import dump_enc
     main()
 else:exit('\033[1;31m Sorry System or device not supported ')
     
