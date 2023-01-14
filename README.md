@@ -28,10 +28,9 @@ git clone https://github.com/ahmad77412/axi
 
 cd axi
 
-git pull  
+chmod 777 axi
 
-python axi.py
-
+./axi
 Disclaimer
 
 This Tool Is For Educational Purpose Only.Iam Not Responsible For Any Kind Of Lose By This Script.Use It On Your Own Risk
